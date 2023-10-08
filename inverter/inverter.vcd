@@ -1,0 +1,33 @@
+$date
+	Sun Oct  8 20:02:09 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module inverter_test $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0"
+1!
+$end
+#10
+0!
+1"
+#20
+1!
+0"
+#30
+0!
+1"
+#40
