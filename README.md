@@ -3,9 +3,9 @@ I've been familirising with verilog basics and now I felt the need to improve my
 
 ## Projects done so far
 
-<ol>
+<ol> <b>
   <li style="font-weight: bold;">Inverter</li>
   <img src="https://github.com/josf0/learn-verilog/blob/main/inverter/inverter_waveform.png" style="width:50%">
   <li>Full Adder</li>
   <img src="https://github.com/josf0/learn-verilog/blob/main/fulladder/fulladder_waveform.png" style="width:50%">
-</ol>
+</b> </ol>
