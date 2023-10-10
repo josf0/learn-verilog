@@ -8,4 +8,6 @@ I've been familirising with verilog basics and now I felt the need to improve my
   <img src="https://github.com/josf0/learn-verilog/blob/main/inverter/inverter_waveform.png" style="width:30%">
   <li>Full Adder</li>
   <img src="https://github.com/josf0/learn-verilog/blob/main/fulladder/fulladder_waveform.png" style="width:30%">
+  <li>3 Bit Counter</li>
+  <img src="[https://github.com/josf0/learn-verilog/blob/main/counter_3bit/counter_3bit_waveform.png" style="width:30%">
 </b> </ol>
