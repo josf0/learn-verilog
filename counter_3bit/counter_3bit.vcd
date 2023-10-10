@@ -1,0 +1,51 @@
+$date
+	Tue Oct 10 15:19:30 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module counter_3bit_tb $end
+$var reg 1 ! clk $end
+$upscope $end
+$scope module counter_3bit_tb $end
+$var reg 1 " rst $end
+$upscope $end
+$scope module counter_3bit_tb $end
+$var wire 3 # count [2:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx #
+0"
+0!
+$end
+#5
+b0 #
+1!
+1"
+#10
+b1 #
+0!
+0"
+#15
+b10 #
+1!
+#20
+b11 #
+0!
+#25
+b100 #
+1!
+#30
+b101 #
+0!
+#35
+b110 #
+1!
+#40
+b111 #
+0!
