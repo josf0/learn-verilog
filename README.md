@@ -12,4 +12,6 @@ I've been familirising with verilog basics and now I felt the need to improve my
   <img src="https://github.com/josf0/learn-verilog/blob/main/counter_3bit/counter_3bit_waveform.png?raw=true" style="width:30%">
   <li>D FlipFlop</li>
   <img src="d_flipflop/d_ff_waveform.png" style="width:30%">
+  <li>FSM 1101 Detector</li>
+  <img src="fsm_1101/fsm_1101_detector_waveform.png" style="width:30%">
 </b> </ol>

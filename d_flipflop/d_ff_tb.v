@@ -1,9 +1,9 @@
 module d_ff_tb();
 
-reg rstn, clk, d;
+reg rstn, clk, din;
 wire reg q;
 
-d_ff dut (rstn, clk, d, q);
+d_ff dut (rstn, clk, din, q);
 
 initial begin
   $dumpfile("d_ff.vcd");
@@ -17,9 +17,9 @@ initial begin
 end
 
 initial begin
-  clk = 0; rstn = 0; d = 0;
+  clk = 0; rstn = 0; din = 0;
   #5 rstn = 1;
-  #5 d = 1;
+  #5 din = 1;
   #5 rstn = 0;
   #40 $finish;
 end

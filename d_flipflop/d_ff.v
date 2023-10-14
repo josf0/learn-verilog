@@ -1,5 +1,5 @@
 module d_ff (
- input rstn, clk, d,
+ input rstn, clk, din,
  output reg q
 );
 
@@ -7,6 +7,6 @@ module d_ff (
     if(!rstn)
       q <= 0;
     else
-      q <= d;
+      q <= din;
   end
 endmodule
